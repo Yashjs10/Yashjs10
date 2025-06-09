@@ -2,7 +2,7 @@
 
 🎓 2nd-year B.Tech at BBDITM | Tech enthusiast fueled by curiosity 
 🚀 Exploring Generative AI, LLMs & prompt magic
-💡 Coding with Java, Python & AI to create cool, impactful projects
+💡 Coding with Python & AI to create cool, impactful projects
 
 ---
 
