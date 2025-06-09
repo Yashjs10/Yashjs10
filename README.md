@@ -15,8 +15,8 @@
 ---
 
 ## 🎥 Project Spotlight: AI Voice Assistant  
-[![Watch the Demo](https://img.youtube.com/vi/2OTd/0.jpg)](https://www.linkedin.com/posts/yash-awasthi-a7aa5b334_ai-voiceassistant-nvidia-activity-7319263848144801792-2OTd)  
-*Click the image to watch the demo on LinkedIn*
+[![chanakya]](https://www.linkedin.com/posts/yash-awasthi-a7aa5b334_ai-voiceassistant-nvidia-activity-7319263848144801792-2OTd)  
+
 
 ---
 
