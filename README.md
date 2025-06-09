@@ -15,6 +15,8 @@
 
 
 ---
+🎥 [Watch my AI Voice Assistant demo on LinkedIn](https://www.linkedin.com/posts/yash-awasthi-a7aa5b334_ai-voiceassistant-nvidia-activity-7319263848144801792-2OTd)
+
 
 ### 🤝 I'm looking to collaborate on:
 - Open-source AI/ML projects
