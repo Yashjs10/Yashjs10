@@ -14,7 +14,7 @@
 
 ---
 
-## 🎥 Project Spotlight: AI Voice Assistant  
+## 🎥 Project: AI Voice Assistant  
 [![chanakya]](https://www.linkedin.com/posts/yash-awasthi-a7aa5b334_ai-voiceassistant-nvidia-activity-7319263848144801792-2OTd)  
 
 
