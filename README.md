@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yash!
 
-🎓 2nd-year B.Tech student at **BBDITM**  
+🎓 3rd-year B.Tech student at **BBDITM**  
 🚀 Exploring **Generative AI**, **LLMs** & **prompt magic**  
 💡 Coding with **Python** & **AI** to build cool, impactful projects
 
