@@ -1,12 +1,8 @@
-# ![Hi](https://img.shields.io/badge/-Hi!-brightgreen?style=for-the-badge) Namaskar, I'm Yash!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Namaste
 
 
-A B.Tech Computer Science student at **BBDITM**.  
-🚀 Exploring **Generative AI**, **LLMs**, and the art of **prompt engineering**.  
-💡 Skilled in **Python**, **AI/ML**, and building cool, impactful projects. Always curious to learn, innovate, and grow.  
 
-Beyond coding, I love exploring new technologies, working on AI-driven apps, and continuously improving my problem-solving mindset.  
- 
+ I'm Yash , A developer currently pursuing B.Tech in computer Science Engineering (AI & ML) .I have strong interest in programming and web development,and i'm proficient in C,java and python. Exploring **Generative AI**, **LLMs**, and the art of **prompt engineering**.Skilled in  **AI/ML**, and building cool, impactful projects. Always curious to learn, innovate, and grow
 
 ---
 
