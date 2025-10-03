@@ -28,7 +28,7 @@
 - 🎙️ **AI Voice Assistant (Chanakya)** → [LinkedIn Post](https://www.linkedin.com/posts/yash-awasthi-a7aa5b334_ai-voiceassistant-nvidia-activity-7319263848144801792-2OTd)  
   Built using **Python**, integrates **NLP** and **voice commands** to interact naturally.
 
-- 🛒 **E-Commerce Website (Inspired by Airbnb)**→ [visit](https://wanderlust-kwz3.onrender.com/listings)
+- 🛒 **E-Commerce Website (Inspired by Airbnb)** → [visit](https://wanderlust-kwz3.onrender.com/listings)  
   Currently building with **Node.js + MongoDB** and modern UI features.
 
 - 🌐 **CHINTAN GPT**  
