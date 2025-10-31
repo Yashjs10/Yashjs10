@@ -31,8 +31,8 @@
 - 🛒 **E-Commerce Website (Inspired by Airbnb)** → [visit](https://wanderlust-kwz3.onrender.com/listings)  
   Currently building with **Node.js + MongoDB** and modern UI features.
 
-- 🌐 **Arka**  
-  My personal AI- Companion, you'll get the link sooner stay tuned
+- 🌐 **Arka**  → [visit](https://arka-oh4z.onrender.com/)
+  Arka is like a friend — you can talk to him in your free time, he’ll quickly solve your problems, crack funny jokes, and chat with you just like a close buddy.
 
 ---
 
